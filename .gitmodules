@@ -1,0 +1,18 @@
+[submodule "corba"]
+	path = corba
+	url = git://github.com/ikeji/openjdk7-corba.git
+[submodule "jaxp"]
+	path = jaxp
+	url = git://github.com/ikeji/openjdk7-jaxp.git
+[submodule "jaxws"]
+	path = jaxws
+	url = git://github.com/ikeji/openjdk7-jaxws.git
+[submodule "langtools"]
+	path = langtools
+	url = git://github.com/ikeji/openjdk7-langtools.git
+[submodule "jdk"]
+	path = jdk
+	url = git://github.com/ikeji/openjdk7-jdk.git
+[submodule "hotspot"]
+	path = hotspot
+	url = git://github.com/ikeji/openjdk7-hotspot.git
